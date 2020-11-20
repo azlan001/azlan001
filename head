@@ -1,0 +1,7 @@
+diff --git a/file1 b/file1
+index d7d1f4c..e432d94 100644
+--- a/file1
++++ b/file1
+@@ -1 +1,2 @@
+ This is file1 with one line
++New line
